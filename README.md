@@ -1,6 +1,6 @@
 ## Certifications
 
-[![CS50P Certificate](assets/cs50p_cert.png)](https://certificates.cs50.io/c238c9de-df00-4943-bbd8-c42ac2195bb7.pdf?size=letter)
+[![CS50P Certificate](assets/cs50p_cert.png)]([https://certificates.cs50.io/c238c9de-df00-4943-bbd8-c42ac2195bb7.pdf?size=letter](https://certificates.cs50.io/6cd7f7d1-e7cd-4642-86c9-815f21063841.png?size=letter))
 
 
 # [CS50p-2022](https://cs50.harvard.edu/python/2022/)
