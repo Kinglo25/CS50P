@@ -1,4 +1,4 @@
-## Certifications
+## Certification
 
 [![CS50P Certificate](certificate/CS50P.png)](https://certificates.cs50.io/c238c9de-df00-4943-bbd8-c42ac2195bb7.pdf?size=letter)
 
