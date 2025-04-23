@@ -1,3 +1,8 @@
+## Certifications
+
+- [CS50P: Harvard’s Introduction to Programming with Python (2022)](https://certificates.cs50.io/c238c9de-df00-4943-bbd8-c42ac2195bb7.pdf?size=letter)
+
+
 # [CS50p-2022](https://cs50.harvard.edu/python/2022/)
 This repository contains my CS50p 2022 Problem set solutions.
 
